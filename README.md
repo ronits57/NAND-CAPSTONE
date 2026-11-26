@@ -6,7 +6,7 @@ This repository contains my Nand2Tetris capstone work. The project shows how the
 
 - **Student:** Ronit
 - **University Roll Number:** 2501350026
-- **K Value:** 30
+- **K Value:** 26
 - **Course:** ETCCNT301 – Nand to Tetris I
 - **Project** Make the Computer Draw a Box
 
@@ -129,12 +129,13 @@ The program continuously checks the keyboard input.
 
 ### Box Dimensions
 
-The dimensions are calculated using my university roll number value, K = 30.
+The dimensions are calculated using my university roll number value, K = 26
+.
 
 | Parameter | Value |
 |---|---|
-| K Value | 30 |
-| Starting Screen Row | 30 |
+| K Value | 26 |
+| Starting Screen Row | 26 |
 | Box Height | 20 rows |
 | Box Width | 48 pixels |
 | Words Per Row | 3 |
@@ -143,13 +144,13 @@ The width is calculated using:
 
 `16 × ((K mod 4) + 1)`
 
-`16 × ((30 mod 4) + 1) = 48 pixels`
+`16 × ((26 mod 4) + 1) = 48 pixels`
 
 Each Hack screen word represents 16 horizontal pixels. Therefore, three screen words are required to draw one row of the box.
 
 The first screen word address is calculated as:
 
-`SCREEN + (32 × 30)`
+`SCREEN + (32 × 26)`
 
 `16384 + 960 = 17344`
 
@@ -363,5 +364,5 @@ Overall, this project gave me practical experience with computer architecture, d
 ---
 
 **Project:** Make the Computer Draw a Box  
-**Course:** ETCCNT301 – Nand to Tetris I  
+**Course:** ETCCNT261 – Nand to Tetris I  
 **Student:** Ronit 
