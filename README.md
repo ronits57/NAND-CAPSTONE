@@ -8,7 +8,7 @@ This repository contains my Nand2Tetris capstone work. The project shows how the
 - **University Roll Number:** 2501350026
 - **K Value:** 30
 - **Course:** ETCCNT301 – Nand to Tetris I
-- **Project:** Make the Computer Draw a Box
+- **Project** Make the Computer Draw a Box
 
 ## Project Overview
 
