@@ -364,5 +364,5 @@ Overall, this project gave me practical experience with computer architecture, d
 ---
 
 **Project:** Make the Computer Draw a Box  
-**Course:** ETCCNT261 – Nand to Tetris I  
+**Course:** ETCCNT301 – Nand to Tetris I  
 **Student:** Ronit 
